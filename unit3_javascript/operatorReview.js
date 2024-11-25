@@ -1,6 +1,5 @@
 // Arithmetic Operators - processes that involve math.
 let
-let 
 
 function withdrawMusicSub(){
     //if money exists - withdraw money for sub
