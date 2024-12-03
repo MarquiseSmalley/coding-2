@@ -30,3 +30,14 @@ console.log(a==b)
 var depositAmount = 400.00
 var savingsAccount = 400.00
 // exclamation equal (!=) : not equal
+
+function doMath() {
+    console.log(2 + 60);
+}
+
+function ageVerification() {
+    if(age 21)
+        'you may purchase this item.'
+} else {
+    console.log ("you are restricted from buying this item.")
+}
