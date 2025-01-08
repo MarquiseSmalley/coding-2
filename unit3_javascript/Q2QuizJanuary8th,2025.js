@@ -12,8 +12,17 @@
 
 // 7. The best working operator for a height verification function would be the if/else format.
 
-// 8. 300,000 * .07 = 21,000
+// 8. 300,000 (Company's Earnings) * .07 (PA's Charge) = 21,000 (PA's Total Takings). 21,000 would be the 7% that the PA state would take.
 
-// 9. 
+// 9. function PasswordLength (Length) {
+    if (Length > 10)
+        console.log("Your password is more than 10 words, therefore the length of your password is too long.);
+      } 
+      else if (Length < 4 && Length < 10) {
+        console.log("Your password is less than 4 words, therefore the length of your password is too short.);
+      } 
+      else if (Length > 4 && Length < 10) {
+        console.log("Your password is over 10 words, therefore the length of your password is acdept and your passowrd is eligible to be used.);
+      } 
 
 // 10. 
